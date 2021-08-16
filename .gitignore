@@ -1,0 +1,11 @@
+# vscode
+*.code-workspace
+.vscode/
+
+# vim
+*.swp
+
+# macOS
+.DS_Store
+
+docs/_drafts/
